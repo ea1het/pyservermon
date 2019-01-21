@@ -1,2 +1,2 @@
 # pyServerMon
-Python Server Monitor script microservice
+Python Server Monitor microservice script
